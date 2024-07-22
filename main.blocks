@@ -1,1 +1,25 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="QMD~!sX3j`djL-3wH^e." x="0" y="0"></block><block type="device_forever" id="[)6.A:JmxQ-HgNbWY-J@" x="205" y="0"><statement name="HANDLER"><block type="typescript_statement" id="{CMV[(NrJqj(n$F%cCq=" editable="false"><mutation xmlns="http://www.w3.org/1999/xhtml" line0="JSON" numlines="1"></mutation></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="QMD~!sX3j`djL-3wH^e." x="0" y="0"></block><block type="device_forever" id="[)6.A:JmxQ-HgNbWY-J@" x="205" y="0"><statement name="HANDLER"><block type="controls_repeat_ext" id="dd1LQ@j]946+PJ-j]JV["><value name="TIMES"><shadow type="math_whole_number" id="j2-$m_!(On*`5bchO!B4"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="controls_repeat_ext" id="dKG:87BRxfc7pNuI)*#b"><value name="TIMES"><shadow type="math_whole_number" id="@cr+PHYE8mMOM%Zi:cZX"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="typescript_statement" id="{CMV[(NrJqj(n$F%cCq=" editable="false"><mutation xmlns="http://www.w3.org/1999/xhtml" line0="JSON" numlines="1"></mutation><next><block type="continue_keyword" id="7tucz5%qv]^0/D.,Vjqh"><next><block type="device_show_leds" id="nnp[sX3})L2hp0D=Mlwt"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        # . . . #
+        `</field><next><block type="break_keyword" id="]M#sR?6~kZL%e]Nr1Jwi"><next><block type="device_show_leds" id="HZ/2tR,0zIvDEm!w_QgT"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . # . . 
+        . # . # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="L-Nx0/^#HC)!L6CE|5Un"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        # . . . #
+        `</field><next><block type="continue_keyword" id="KNJ=?^/4*1iwZc5+hy]x"><next><block type="device_show_leds" id="n]PyWuMC.i5D!]$+t+ZT"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . # . . 
+        . # . # . 
+        . . . . .
+        `</field><next><block type="break_keyword" id="|mp7+nWHb,eF@UW]FwOR"></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block></statement></block></xml>
